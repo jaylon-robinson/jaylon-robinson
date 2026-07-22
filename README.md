@@ -19,17 +19,17 @@ SOC analyst career.
 ## Current Projects
 - Active Directory Home Lab — Built a Windows Server 2019 domain environment 
   with DNS, OUs, user accounts, Group Policy, and Windows 10 domain join
-- Splunk SIEM Lab — Coming soon
+- Wazuh SIEM Lab - A home SIEM lab built in VirtualBox using Wazuh, Suricata, and pfSense to unify host-based and network-based threat detection on an isolated, segmented network. Simulated attacks from Kali Linux are detected, triaged, and automatically contained through active response that blocks the attacker in real time.
 - Vulnerability Management Lab — Coming soon
 
 ---
 
 ## Technical Skills
 - Operating Systems: Windows 10/11, Windows Server 2019, Linux (Ubuntu, Kali)
-- Networking: TCP/IP, DNS, DHCP, VLANs, pfSense, Wireshark, Nmap
+- Networking: TCP/IP, DNS, DHCP, VLANs, pfSense, Wireshark, Nmap, Network segmentation
 - Active Directory: Domain controller setup, OU structure, user management, Group Policy
-- Security: CompTIA Security+, STIG compliance, vulnerability identification
-- Tools: VirtualBox, VMware, FTK Imager, Metasploit, Python, Bash
+- Security: CompTIA Security+, STIG compliance, vulnerability identification, incident triage & response, detection engineering,
+- Tools: VirtualBox, VMware, FTK Imager, Metasploit, Python, Bash, Wazuh (SIEM), Suricata (IDS), Sysmon, pfSense, Hydra,
 
 ---
 
